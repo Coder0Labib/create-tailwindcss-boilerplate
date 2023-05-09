@@ -9,6 +9,10 @@ And finally for building the production code with tree-shaking (removing unused 
 So this boilerplate has all the configuration to save your time from this boring configurtion tasks (and from gogling many things)
 
 Use this boilerplate as the starting point for your JAMstack + Tailwind CSS based projects.
+<br>
+<br>
+<br>
+<br>
 
 start
 git clone this_repository
